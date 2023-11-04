@@ -1,0 +1,7 @@
+{
+    "display_weather": "現在氣溫 {{temp}} 度在{{city}}!", 
+    "error-please-try-again": "錯誤請再次嘗試",
+    "Get weather": "查看天氣",
+    "Enter a City": "請輸入城市"
+
+}
