@@ -1,0 +1,115 @@
+{
+    "title": {
+        "1": "牛仔迷你连衣裙",
+        "2": "无袖迷你连衣裙",
+        "3": "飘逸褶皱连衣裙",
+        "4": "动物印花褶皱连衣裙",
+        "5": "亚麻混纺连体裤",
+        "6": "不对称褶皱针织连衣裙",
+        "7": "露背中长连衣裙",
+        "8": "花卉连衣裙",
+       "9": "条纹亚麻混纺中长连衣裙",
+        "10": "镶嵌珠宝针织迷你裙",
+        "11": "Z1975开叉牛仔中长裙",
+        "12": "纹理花卉开衫",
+        "13": "皱纹效果直筒西装外套"
+    },
+    "desc": {
+        "1": "翻领连衣裙，V领和短袖翻边袖口。正面口袋和背面贴袋。水洗效果。金属纽扣前开口。",
+        "2": "无袖迷你连衣裙，方领。内置同色调粘胶纤维衬里。隐形侧缝拉链闭合。",
+        "3": "飘逸的无袖V领连衣裙。侧面褶皱细节。",
+        "4": "流畅褶皱领口中长连衣裙，带颈部系带的可调节系带。",
+        "5": "亚麻混纺连体裤；尖领；带纽扣翻盖的短袖；匹配面料腰带；双针纽扣；腰部和裤腿褶皱；直腿；正面隐形拉链闭合。",
+        "6": "无袖连衣裙，不对称领口。褶皱细节。",
+        "7": "针织面料连衣裙。系扣式颈部。露背。侧面褶皱细节。同色调内衬。背面隐形侧缝拉链闭合。",
+        "8": "直领迷你连衣裙，双层对比色缎面效果面料细肩带。纹理花卉细节和褶皱面料。对比色内衬。背面隐形侧缝拉链闭合。",
+        "9": "由亚麻和棉制成的连衣裙。翻领和带纽扣袖扣的短袖翻边袖口。下摆侧开口。纽扣前开口和自带腰带。",
+        "10": "高腰弹性裙。带珠宝装饰的前贴袋。",
+        "11": "高腰五袋裙。水洗效果。前开叉。拉链和金属纽扣前开口。",
+        "12": "圆领长袖开衫。花朵形状纹理面料细节。前面隐藏式按扣开口。",
+        "13": "我们与监控项目合作，确保产品符合社会、环境、健康和安全标准。为了评估其合规性，我们开发了一项审计。"
+    },
+    "Navbar": {
+        "searchPlaceholder": "你在找什么？",
+        "searchButtonLabel": "搜索产品",
+        "logoAlt": "样本标志",
+        "searchIconAlt": "搜索图标",
+        "greetingText": "购物者",
+        "historyLink": "订单历史",
+        "arrowAlt": "下拉箭头",
+        "cartAlt": "显示购物车",
+        "navLinkHome": "推荐",
+        "navLinkDroids": "2024季度",
+        "navLinkVehicles": "2023季度"
+    },
+    "Home": {
+        "welcomeSubtitle": "欢迎来到Zara购物中心！",
+        "symbolAlt": "帝国信用货币符号"
+    },
+   
+    "Checkout": {
+        "checkoutTitle": "结账",
+        "shipSectionLabel": "配送信息",
+        "firstNameLabel": "名字",
+        "lastNameLabel": "姓氏",
+        "coordinatesLabel": "坐标",
+        "coordinatesHolder": "0,0,0",
+        "sectorLabel": "领域",
+        "methodLabel": "配送方式",
+        "shipLightspeed": "超光速",
+        "shipOvernight": "隔夜",
+        "shipStandard": "标准",
+        "paySectionLabel": "付款",
+        "payNameLabel": "卡上姓名",
+        "payNameHolder": "名字 姓氏",
+        "accountLabel": "信用卡号",
+        "accountHolder": "1234567-9876-00",
+        "securityLabel": "安全码",
+        "securityHolder": "123456",
+        "expDateLabel": "到期日期",
+        "cartTitle": "购物车",
+        "deleteAlt": "从购物车中删除商品",
+        "totalLabel": "总计：",
+        "orderLabel": "下单",
+        "termsStatement": "我已阅读并同意条款和条件",
+        "termsLink": "（查看）",
+        "successMessage": "订单已成功下单！",
+        "noItemMessage": "添加商品到购物车以结账。"
+    },
+    "ProductShow": {
+        "qtyLabel": "数量：",
+        "addToCartLabel": "添加到购物车"
+    },
+    "Cart": {
+        "cartTitle": "购物车",
+        "noItemMsg": "购物车中没有商品。",
+        "deleteAlt": "从购物车中删除商品",
+        "totalTitle": "总计：",
+        "checkoutLabel": "结账",
+        "closeAlt": "关闭购物车"
+    },
+    "OrderHistory": {
+        "historyTitle": "订单历史",
+        "dateHeading": "日期",
+        "numberHeading": "订单号",
+        "totalHeading": "总计",
+        "statusHeading": "状态"
+    },
+    "Error404": {
+        "errorMessage": "404错误：未找到页面。"
+    },
+    "Bottombar": {
+        "menuAlt": "打开侧边栏菜单"
+    },
+    "LocaleSelector": {
+        "localeLabel": "语言：",
+        "localeEN": "英语 - 美国",
+        "localeZH": "中文 - 中国"
+    },
+    "Browse":{
+        "Spring24":"春季24",
+        "Summer24":"夏季24"
+    },
+    "Special": "特别"
+ }
+ 

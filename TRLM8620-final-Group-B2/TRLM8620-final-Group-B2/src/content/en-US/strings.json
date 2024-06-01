@@ -1,0 +1,115 @@
+{
+    "title": {
+        "1": "DENIM MINI DRESS",
+        "2": "SLEEVELESS DRESS",
+        "3": "FLOWY DRESS",
+        "4": "DRAPED DRESS",
+        "5": "LINEN JUMPSUIT",
+        "6": "ASYMMETRIC DRESS",
+        "7": "MIDI DRESS",
+        "8": "FLORAL TULLE DRESS", 
+       "9": "STRIPED LINEN BLEND MIDI DRESS",
+        "10": "JEWEL PLAIN KNIT MINI SKIRT",
+        "11": "Z1975 SLIT DENIM MIDI SKIRT",
+        "12": "TEXTURED FLORAL CARDIGAN",
+        "13": "WRINKLE EFFECT STRAIGHT CUT BLAZER"
+    },
+    "desc": {
+        "1": "Lapel collar dress with V-neck and short cuffed sleeves. Front pockets and back patch pockets. Washed effect. Front metal button closure.",
+        "2": "Sleeveless mini dress with squared neckline. Tonal interior viscose lining. Hidden in-seam zip closure.",
+        "3": "Flowy sleeveless V-neck dress. Ruching detail at sides.",
+        "4": "Midi dress with fluid draped neckline and adjustable halter with ties at neck.",
+        "5": "Linen-blend jumpsuit; pointed collar; short sleeves with buttoned flap; matching fabric waistband; double-needle buttons; pleated waistband and legs; straight leg; invisible zipper closure at front.",
+        "6": "Sleeveless dress with asymmetric neckline. Ruched detail.",
+        "7": "Dress made of knit fabric. Buttoned halter neck. Open back. Ruching detail at sides. Tonal interior lining. Back hidden in-seam zip closure.",
+        "8": "Mini dress with straight neckline and double spaghetti straps in contrasting satin effect fabric. Textured floral detail and draped fabric. Contrasting interior lining. Back hidden in-seam zip closure.",
+        "9": "Dress made of linen and cotton. Lapel collar and short cuffed sleeves with tab and button. Side vents at hem. Front button closure and self belt.",
+        "10": "Skirt with a high elastic waist. Front patch pockets with jewel appliqués.",
+        "11": "Skirt with a high waist and five pockets. Washed effect. Front slit. Front zip and metal button closure.",
+        "12": "Round neck long sleeve cardigan. Flower-shaped textured fabric detail. Front hidden snap button closure.",
+        "13": "We work with monitoring programs to guarantee compliance with the social, environmental, and health and safety standards of our products. To assess its compliance, we have developed an audit. "
+    },
+    "Navbar": {
+        "searchPlaceholder": "What are you looking for?",
+        "searchButtonLabel": "search products",
+        "logoAlt": "Zara",
+        "searchIconAlt": "search icon",
+        "greetingText": "Shopper",
+        "historyLink": "ORDER HISTORY",
+        "arrowAlt": "Drop Down Arrow",
+        "cartAlt": "show cart",
+        "navLinkHome": "Recommendation",
+        "navLinkDroids": "2024Season",
+        "navLinkVehicles": "2023Season"
+    },
+    "Home": {
+        "welcomeSubtitle": "Welcome to Zara shopping center!",
+        "symbolAlt": "Imperial Credit currency symbol"
+    },
+   
+    "Checkout": {
+        "checkoutTitle": "Checkout",
+        "shipSectionLabel": "Shipping Info",
+        "firstNameLabel": "First Name",
+        "lastNameLabel": "Last Name",
+        "coordinatesLabel": "Coordinates",
+        "coordinatesHolder": "0,0,0",
+        "sectorLabel": "Sector",
+        "methodLabel": "Shipping Method",
+        "shipLightspeed": "Lightspeed",
+        "shipOvernight": "Overnight",
+        "shipStandard": "Standard",
+        "paySectionLabel": "Payment",
+        "payNameLabel": "Name on Card",
+        "payNameHolder": "First Last",
+        "accountLabel": "Credit Number",
+        "accountHolder": "1234567-9876-00",
+        "securityLabel": "Security Code",
+        "securityHolder": "123456",
+        "expDateLabel": "Expiration Date",
+        "cartTitle": "Shopping Cart",
+        "deleteAlt": "remove item from cart",
+        "totalLabel": "Total: ",
+        "orderLabel": "PLACE ORDER",
+        "termsStatement": "I have read and agree to the Terms and Conditions",
+        "termsLink": "(View)",
+        "successMessage": "Order placed successfully!",
+        "noItemMessage": "Add items to cart to checkout."
+    },
+    "ProductShow": {
+        "qtyLabel": "Qty: ",
+        "addToCartLabel": "ADD TO CART"
+    },
+    "Cart": {
+        "cartTitle": "Shopping Cart",
+        "noItemMsg": "No items in cart.",
+        "deleteAlt": "Delete item from cart",
+        "totalTitle": "Total: ",
+        "checkoutLabel": "CHECKOUT",
+        "closeAlt": "Close Cart"
+    },
+    "OrderHistory": {
+        "historyTitle": "Order History",
+        "dateHeading": "Date",
+        "numberHeading": "Order Number",
+        "totalHeading": "Total",
+        "statusHeading": "Status"
+    },
+    "Error404": {
+        "errorMessage": "404 Error: Page not found."
+    },
+    "Bottombar": {
+        "menuAlt": "open sidebar menu"
+    },
+    "LocaleSelector": {
+        "localeLabel": "Locale: ",
+        "localeEN": "English - US",
+        "localeZH": "Chinese - China"
+    },
+    "Browse":{
+        "Spring24":"Spring24",
+        "Summer24":"Summer24"
+    },
+    "Special": "Special"
+ }
+ 
